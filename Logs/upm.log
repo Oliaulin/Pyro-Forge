@@ -1,0 +1,52 @@
+[2026-09-27T15:22:56.582Z][INFO] Command-line: 'C:\\Program Files\\Unity\\Hub\\Editor\\6000.5.9f1\\Editor\\Data\\Resources\\PackageManager\\Server\\UnityPackageManager.exe' server -s 32988 --ipc-path Unity-Upm-32988 -l 2 --log-file 'C:\\Users\\oliau\\Desktop\\TIM 2026\\2-Automne\\5-ExperimentationJeu\\projets\\Jeu de quilles/Logs/upm.log'
+[2026-09-27T15:22:56.663Z][INFO] IPC server started (IPC path=Unity-Upm-32988).
+[2026-09-27T15:22:56.664Z][INFO] Hint: To connect to this UPM instance, launch Unity with the command-line parameter -upmIpcPath Upm-32988.
+[2026-09-27T15:22:58.683Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-09-27T15:22:58.815Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-09-27T15:22:58.827Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-09-27T15:22:58.848Z][INFO] config:project:get-registries --> 200 (21 ms)
+[2026-09-27T15:22:59.127Z][INFO] project:list-packages --> 200 (445 ms)
+[2026-09-27T15:22:59.251Z][INFO] project:list-packages --> 200 (436 ms)
+[2026-09-27T15:22:59.354Z][INFO] project:resolve-packages <-- Request received
+params: {}
+[2026-09-27T15:23:38.288Z][WARN] Requested version [2.3.0] for package [com.unity.xr.core-utils] overridden by minimum version [2.6.0].
+[2026-09-27T15:23:38.288Z][WARN] Requested version [2.1.2] for package [com.unity.xr.legacyinputhelpers] overridden by minimum version [3.0.1].
+[2026-09-27T15:23:38.288Z][WARN] Requested version [2.3.0] for package [com.unity.xr.compositionlayers] overridden by minimum version [2.5.0].
+[2026-09-27T15:23:38.288Z][WARN] Requested version [1.4.1] for package [com.unity.burst] overridden by minimum version [1.8.30].
+[2026-09-27T15:23:38.288Z][WARN] Requested version [1.0.0] for package [com.unity.editorcoroutines] overridden by minimum version [1.1.0].
+[2026-09-27T15:23:38.289Z][WARN] Requested version [4.9.3] for package [com.unity.searcher] overridden by minimum version [4.9.5].
+[2026-09-27T15:23:38.289Z][WARN] Requested version [3.2.0] for package [com.unity.test-framework.performance] overridden by minimum version [3.5.0].
+[2026-09-27T15:23:38.291Z][INFO] project:resolve-packages --> 200 (38938 ms)
+[2026-09-27T15:24:33.960Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-09-27T15:24:33.972Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-09-27T15:24:34.558Z][INFO] project:list-packages --> 200 (586 ms)
+[2026-09-27T15:24:34.560Z][INFO] project:list-packages --> 200 (600 ms)
+[2026-09-27T15:24:38.117Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-09-27T15:24:38.451Z][INFO] project:list-packages --> 200 (334 ms)
+[2026-09-27T15:24:39.354Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-09-27T15:24:39.359Z][INFO] config:project:get-registries --> 200 (5 ms)
+[2026-09-27T15:24:39.473Z][INFO] packages:get-all-packageinfo <-- Request received
+params: {}
+[2026-09-27T15:24:39.519Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-09-27T15:24:40.098Z][INFO] packages:get-all-packageinfo --> 200 (625 ms)
+[2026-09-27T15:24:40.415Z][INFO] project:list-packages --> 200 (896 ms)
+[2026-09-27T15:26:04.312Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-09-27T15:26:04.649Z][INFO] project:list-packages --> 200 (337 ms)
+[2026-09-27T15:26:06.450Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-09-27T15:26:06.738Z][INFO] project:list-packages --> 200 (288 ms)
+[2026-09-27T15:26:07.609Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-09-27T15:26:07.844Z][INFO] project:list-packages --> 200 (235 ms)
+[2026-09-27T15:26:11.141Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-09-27T15:26:12.840Z][INFO] project:list-packages --> 200 (1700 ms)

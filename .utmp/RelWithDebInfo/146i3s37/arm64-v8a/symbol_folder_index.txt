@@ -1,0 +1,1 @@
+C:\Users\oliau\Desktop\TIM 2026\2-Automne\5-ExperimentationJeu\projets\Jeu de quilles\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\146i3s37\obj\arm64-v8a
